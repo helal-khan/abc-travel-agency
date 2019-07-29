@@ -1,4 +1,0 @@
-1. Import abc-travel-agency to eclipse
-2. add DB to phpmyadmin
-3. edit jdbc property file needed.
-4. Then run the project
