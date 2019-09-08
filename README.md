@@ -1,4 +1,4 @@
-Guide line for run the projeect
+Guide line for run the project
 1. Import abc-travel-agency to eclipse as Maven project.
 2. Create database which name is "abc_travel_agency" and import abc_travel_agency.sql file from DB folder to phpmyadmin
 3. Change jdbc.properties file, if needed.
